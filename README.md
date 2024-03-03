@@ -1,1 +1,1 @@
-# credit-card-fraud-detection
+This project aims to implement a credit card fraud detection system using a Decision Tree algorithm. The Decision Tree model is trained on a dataset containing historical credit card transactions, with the goal of identifying fraudulent transactions.
